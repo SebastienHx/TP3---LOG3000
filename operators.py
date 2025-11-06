@@ -80,10 +80,5 @@ def divide(a, b):
 
     Raises:
         ZeroDivisionError : si b est zéro.
-
-    Notes :
-        L'implémentation actuelle utilise la division entière (//).
-        Cela peut surprendre si l'on s'attend à un résultat décimal.
-        Cette implémentation devrait utiliser la division réelle.
     """
-    return a // b
+    return a / b
