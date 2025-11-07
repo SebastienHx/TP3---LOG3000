@@ -48,7 +48,7 @@ def subtract(a, b):
         La fonction effectue un calcul qui inverse l'ordre attendu, renvoyant b - a.
         On documente ici le comportement attendu (a - b).
     """
-    return b - a
+    return a - b
 
 
 def multiply(a, b):
