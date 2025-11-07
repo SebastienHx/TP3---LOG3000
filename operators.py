@@ -60,12 +60,8 @@ def multiply(a, b):
 
     Returns:
         int|float : le produit a * b.
-
-    Notes :
-        Cette fonction met actuellement "a" à la puissance "b" (a ** b).
-        Cette implémentation devrait effectuer la multiplication standard.
     """
-    return a ** b
+    return a * b
 
 
 def divide(a, b):
