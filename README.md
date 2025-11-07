@@ -95,8 +95,10 @@ Ce projet suit un flux simple de contribution. Règles recommandées :
 
 - Branches :
   - `main` : branche de production stable.
-  - Créez une branche de travail nommée `feature/<nom>` ou `fix/<nom>` pour
-    chaque nouvelle fonctionnalité ou correction.
+  - Créez une branche de travail nommée `feature/<nom>` pour
+    chaque nouvelle fonctionnalité.
+  - Créez une branche de travail nommée `<numéro de l'issue> - <Titre de l'issue>`
+    pour la correction d'une issue.   
 
 - Pull Requests (PR) :
   - Ouvrez une PR depuis votre branche de travail vers `main`.
