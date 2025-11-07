@@ -43,10 +43,6 @@ def subtract(a, b):
 
     Returns:
         int|float : la différence arithmétique a - b.
-
-    Notes :
-        La fonction effectue un calcul qui inverse l'ordre attendu, renvoyant b - a.
-        On documente ici le comportement attendu (a - b).
     """
     return a - b
 
